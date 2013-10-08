@@ -1,0 +1,10 @@
+{
+	"installed_packages":
+	[
+		"Emmet",
+		"JSLint",
+		"LoadFileToRepl",
+		"Package Control",
+		"Theme - Flatland"
+	]
+}
